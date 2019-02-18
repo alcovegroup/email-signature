@@ -1,0 +1,23 @@
+{
+  "name": "alcove-email-signature",
+  "version": "1.0.0",
+  "description": "Alcove Corp. Email Signature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcovegroup/email-signature.git"
+  },
+  "author": "Alex Hudson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alcovegroup/email-signature/issues"
+  },
+  "homepage": "https://github.com/alcovegroup/email-signature#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "handlebars": "^4.1.0"
+  }
+}
