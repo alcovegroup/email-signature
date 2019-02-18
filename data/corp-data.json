@@ -1,36 +1,42 @@
 {
-	"employees" : [
+	"employees": [
 		{
+			"filename": "jeff.gottschalk",
 			"name": "Jeff Gottschalk",
 			"title": "Partner | Realtor",
 			"email" : "jeff.gottschalk@alcoveglobal.com",
 			"phone": "480.280.1934"
 		},
 		{
+			"filename": "hope.frank",
 			"name": "Hope Frank",
 			"title": "Chief Marketing Officer",
 			"email" : "hope.frank@alcoveglobal.com",
 			"phone": "415.887.8448"
 		},
 		{
+			"filename": "mark.lindabury",
 			"name": "Mark Lindabury",
-			"title": "Partner, Chief Operating Officer",
+			"title": "Partner | Chief Operating Officer",
 			"email" : "mark.lindabury@alcoveglobal.com",
 			"phone": "602.663.1327"
 		},
 		{
+			"filename": "jenna.pace",
 			"name": "Jenna Pace",
 			"title": "Partner | Realtor",
 			"email" : "jenna.pace@alcoveglobal.com",
 			"phone": "480.479.2524"
 		},
 		{
+			"filename": "mike.simon",
 			"name": "Mike Simon",
 			"title": "Partner | Realtor",
 			"email" : "mike.simon@alcoveglobal.com",
 			"phone": "602.481.3496"
 		},
 		{
+			"filename": "alicia.casanova",
 			"name": "Alicia Casanova",
 			"title": "Partner | Executive Assistant",
 			"email" : "alicia.casanova@alcoveglobal.com",
