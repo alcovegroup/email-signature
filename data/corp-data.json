@@ -5,7 +5,9 @@
 			"name": "Jeff Gottschalk",
 			"title": "Partner | Realtor",
 			"email" : "jeff.gottschalk@alcoveglobal.com",
-			"phone": "480.280.1934"
+			"phone": "480.280.1934",
+			"facebook": "https://www.facebook.com/profile.php?id=10140268",
+			"linkedin": "https://www.linkedin.com/in/jgottschalk/"
 		},
 		{
 			"filename": "hope.frank",
@@ -19,28 +21,35 @@
 			"name": "Mark Lindabury",
 			"title": "Partner | Chief Operating Officer",
 			"email" : "mark.lindabury@alcoveglobal.com",
-			"phone": "602.663.1327"
+			"phone": "602.663.1327",
+			"facebook": "https://www.facebook.com/mark.lindabury.9",
+			"linkedin": "https://www.linkedin.com/in/marklindabury"
 		},
 		{
 			"filename": "jenna.pace",
 			"name": "Jenna Pace",
 			"title": "Partner | Realtor",
 			"email" : "jenna.pace@alcoveglobal.com",
-			"phone": "480.479.2524"
+			"phone": "480.479.2524",
+			"facebook": "https://www.facebook.com/jenna.kristine.7",
+			"linkedin": "https://www.linkedin.com/in/jenna-pace-2a70a4176"
 		},
 		{
 			"filename": "mike.simon",
 			"name": "Mike Simon",
 			"title": "Partner | Realtor",
 			"email" : "mike.simon@alcoveglobal.com",
-			"phone": "602.481.3496"
+			"phone": "602.481.3496",
+			"facebook": "https://www.facebook.com/mike.simon.100",
+			"linkedin": "https://www.linkedin.com/in/mike-simon-b7a557172"
 		},
 		{
 			"filename": "alicia.casanova",
 			"name": "Alicia Casanova",
 			"title": "Partner | Executive Assistant",
 			"email" : "alicia.casanova@alcoveglobal.com",
-			"phone": "646.418.9522"
+			"phone": "646.418.9522",
+			"linkedin": "https://www.linkedin.com/in/alicia-casanova"
 		}
 	]
 }

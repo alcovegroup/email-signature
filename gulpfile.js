@@ -8,7 +8,12 @@ gulp.task('hbs', function(){
     data.employees.forEach(function(employee){
         gulp.src('./template/signature.hbs')
             .pipe(compilehbs(employee, {
-                    ignorePartials: true
+                    ignorePartials: true,
+                    helpers: {
+                        either: function(arg1, arg2, options) {
+                            if (arg1 || arg2) { return options.fn(this) }
+                        }
+                    }
                 }))
             .pipe(rename(function (path) {
                 path.basename = employee.filename;
