@@ -22,9 +22,14 @@ http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blo
 
 Convenience Links:
 
-+[Jeff Gottschalk](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/jeff.gottschalk.html)
-+[Hope Frank](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/hope.frank.html)
-+[Mark Lindabury](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/mark.lindabury.html)
-+[Jenna Pace](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/jenna.pace.html)
-+[Mike Simon](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/mike.simon.html)
-+[Alicia Casanova](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/alicia.casanova.html)
+*[Jeff Gottschalk](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/jeff.gottschalk.html)
+
+*[Hope Frank](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/hope.frank.html)
+
+*[Mark Lindabury](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/mark.lindabury.html)
+
+*[Jenna Pace](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/jenna.pace.html)
+
+*[Mike Simon](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/mike.simon.html)
+
+*[Alicia Casanova](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/alicia.casanova.html)
