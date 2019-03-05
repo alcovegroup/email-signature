@@ -22,7 +22,7 @@ http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blo
 
 Convenience Links:
 
-<a href="http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/jeff.gottschalk.html" target="_blank">Jeff Gottschalk</a>
+[Jeff Gottschalk](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/jeff.gottschalk.html)
 
 [Hope Frank](http://htmlpreview.github.io/?https://github.com/alcovegroup/email-signature/blob/master/signatures/hope.frank.html)
 
